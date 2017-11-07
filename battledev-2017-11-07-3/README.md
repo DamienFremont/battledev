@@ -1,3 +1,97 @@
-# battledev-2017-11-07
+# battledev-2017-11-07-3
 
 https://www.blogdumoderateur.com/evenements/battle-dev-2017/
+
+INIT =======================
+6
+SOLVE =======================
+grid
+. . . . . X 
+. . . . X . 
+. . . . . . 
+. . . . . . 
+. X X . . . 
+. . . . . . 
+culti
+. . . C C . 
+. . . C . C 
+. . . C C C 
+C C C . . . 
+C . . C . . 
+C C C C . . 
+PLAY =======================
+SOLUTION 16
+INIT =======================
+12
+SOLVE =======================
+grid
+. . . . . X . . X . X . 
+X . . X . . . . . . . X 
+. . . X . . X . X . . X 
+. . . . X . . . . . . . 
+. X . . . X . . . . . . 
+. X . X . . . . . . . . 
+X . X X . . . . . . X . 
+. . . X . . . . . . . . 
+. . . . . X . . . . . . 
+. . . X . . . . X . . . 
+. . . . . . . . . . . X 
+. . . . . X . . . X . . 
+culti
+C . C C C . C C . C . C 
+. C C . C C C C C C C . 
+C C C . C C . C . C C . 
+C C C C . C C C C C C C 
+C . C C C . C . . . . . 
+C . C . C C C . . C C . 
+. C . . C . . . . C . C 
+C C C . C C . . . C C C 
+. . C C C . C C C . . . 
+. . C . C C C C . C C C 
+. . C C C C . C C C C . 
+. . . . C . C . C . C C 
+PLAY =======================
+SOLUTION 87
+INIT =======================
+18
+SOLVE =======================
+grid
+. X . . X X . . . X . . . X . . X . 
+. . . . . . . . . . . . X . . . X . 
+X . . . . . . . . X . . . . . . . X 
+. . . X . . . . X . . . . . . . . . 
+. X X . . . . X . . . . . . . . . X 
+X . . . . . . . . . . . . . . . . X 
+. . . . X . . . . . . . . . X . . . 
+X . . . . X X . . X . . . . . . . . 
+. . . . X . X . X X . X . X . . . . 
+. . . . . . . . . . . . . . . . . X 
+X X . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . X . X . . . 
+. . . . X . . . . . X . . X . . . . 
+. . . X . X . . . X X . . . . . . . 
+. . X . . X . . . . . . . . X . . . 
+. X . X X . X . . . . . X X X . . X 
+. . . . . . . . . . . . X . . X . X 
+. . . . . . . . . . . . . . . . X . 
+culti
+C . C C . . C . C . C C C . C C . C 
+C C C C C C C . C C C C . C C C . C 
+. C C C . . . C C . C C C C . C C . 
+C C C . C . C C . C C . . . . . C C 
+C . . C C . C . C C . . . . . . C . 
+. C C C C . C C C . . . . C C . C . 
+C C . C . C C . C C . . . C . C C C 
+. C . C C . . C C . C C C C C C . . 
+C C . C . C . C . . C . C . C . C C 
+C C . C C C C C C C C C C C C . C . 
+. . C . . . . . . . . C C C C . C C 
+C C C C C . . . . C C C . C . C . . 
+. . C C . C . . C C . C C . C C . . 
+. C C . C . C . C . . C C C C . . . 
+C C . C C . C . C C C C C C . C C C 
+C . C . . C . C . . . C . . . C C . 
+C C C C C C C C . . . C . C C . C . 
+. . . . . . . . . . . C C C C C . C 
+PLAY =======================
+SOLUTION 185
